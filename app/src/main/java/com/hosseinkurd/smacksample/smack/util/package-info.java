@@ -1,0 +1,1 @@
+package com.hosseinkurd.smacksample.smack.util;../../../../../../../../smack-core/src/main/java/org/jivesoftware/smack/util/package-info.java

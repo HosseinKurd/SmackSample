@@ -1,0 +1,1 @@
+package com.hosseinkurd.smacksample.smack.util.stringencoder;../../../../../../../../../smack-core/src/main/java/org/jivesoftware/smack/util/stringencoder/package-info.java

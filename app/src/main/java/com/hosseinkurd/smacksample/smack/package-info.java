@@ -1,0 +1,1 @@
+// package com.hosseinkurd.smacksample.smack;../../../../../../../smack-core/src/main/java/org/jivesoftware/smack/package-info.java
