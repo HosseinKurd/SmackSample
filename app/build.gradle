@@ -44,6 +44,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     implementation "org.minidns:minidns-android21:1.0.0"
-    api "xpp3:xpp3_min:1.1.4c"
-    implementation "xpp3:xpp3:1.1.4c"
+    // implementation project(path: ':smack')
+    implementation project(path: ':smack:smack-integration-test')
+    implementation project(path: ':smack:smack-android')
+    implementation project(path: ':smack:smack-android-extensions')
 }
